@@ -1,5 +1,12 @@
 #summary See here what happened lately
 
-= And we're off! =
+= (Mar 03) Sources are up =
+
+The first import is available here: http://code.google.com/p/narro/source/browse/trunk/narro/?r=8 .
+It's working, but installing would require some instructions. I'm planning an installer, so I don't want to bore you right now. 
+
+Please stay tuned for a public release.
+
+= (Feb 29) And we're off! =
 
 Narro is now hosted on google. The sources will be submitted shortly.
