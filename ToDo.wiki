@@ -1,0 +1,7 @@
+#summary A to do list for Narro
+
+= Planned =
+
+ * implement a plugin system
+ * add user authentication and permission management
+ * clean up code
