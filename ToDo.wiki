@@ -2,6 +2,7 @@
 
 = Planned =
 
- * implement a plugin system
- * add user authentication and permission management
- * clean up code
+ * add user and permission management
+ * rss feeds
+ * single file export/import
+ * bring back support for gettext and sdf
