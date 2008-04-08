@@ -6,3 +6,7 @@
  * rss feeds
  * single file export/import
  * bring back support for gettext and sdf
+
+= Known problems =
+
+ * access key parsing should ignore entities like &brandShortName;
