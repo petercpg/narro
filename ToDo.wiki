@@ -11,10 +11,10 @@
 
 = Done =
 
- ~~* add user and permission management~~
- ~~* single file export/import~~
- ~~* bring back support for gettext and sdf~~
- ~~* access key parsing should ignore entities like &brandShortName;~~
+ * ~~add user and permission management~~
+ * ~~single file export/import~~
+ * ~~bring back support for gettext and sdf~~
+ * ~~access key parsing should ignore entities like &brandShortName;~~
 
 = Known problems =
 
