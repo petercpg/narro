@@ -1,12 +1,21 @@
 #summary A to do list for Narro
 
 = Planned =
+ * add functionality to add a new project
+ * add functionality to delete projects
 
- * add user and permission management
+= Working on ==
+
  * rss feeds
- * single file export/import
- * bring back support for gettext and sdf
+ * import/export project via web
+
+= Done =
+
+ ~~* add user and permission management~~
+ ~~* single file export/import~~
+ ~~* bring back support for gettext and sdf~~
+ ~~* access key parsing should ignore entities like &brandShortName;~~
 
 = Known problems =
 
- * access key parsing should ignore entities like &brandShortName;
+ * Access keys in gettext are not always recognized
