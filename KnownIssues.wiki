@@ -2,5 +2,7 @@
 
   * in mozilla projects, the translator credits are not exported; please edit them manually for now
   * in gettext projects, access keys are not always recognized; however this should not affect the functionality
+  * sometimes you get a 0 bytes archive after project export; scheduled to be fixed in beta 2
+  * openoffice .sdf import is broken; scheduled to be fixed in beta 2
 
 These issues are known and will be fixed. If you find other issues, please [http://code.google.com/p/narro/issues/entry report them].
