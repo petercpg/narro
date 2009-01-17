@@ -1,5 +1,0 @@
-#summary Here's a quick list of known issues.
-
-  * in mozilla projects, the translator credits are not exported; please edit them manually for now
-
-These issues are known and will be fixed. If you find other issues, please [http://code.google.com/p/narro/issues/entry report them].
