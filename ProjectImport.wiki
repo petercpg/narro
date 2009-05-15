@@ -1,11 +1,4 @@
-#summary This page is used for importing a project
-
-= Introduction =
-
-The page should be kept simple and allow various source for translations and texts.
-
-
-= Details =
+#summary The page should be kept simple and allow various import sources for translations and texts
 
 The page holds 3 sections:
 
