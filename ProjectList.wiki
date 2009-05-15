@@ -1,11 +1,5 @@
-#summary This page shows the list of projects that can be translated
+#summary Shows the list of projects that can be translated and provides 1 click access to translation
 
-= Introduction =
-
-This is the entry page and should provide 1 click access to translation.
-
-
-= Details =
 
 There are 4 tabs:
  * _Projects_: the project list
