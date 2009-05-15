@@ -1,4 +1,5 @@
-The page is simple, with only a few options and a button to do the export.
+#summary The page is simple, with only a few options and a button to do the export.
+
 The export is done in a directory on the server.
 After the export is finished, you will have a link to a zip archive that contains the translated project.
 
